@@ -1,0 +1,70 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+yarn-error.log
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+tslint.json
+tsconfig.json
+src/tsconfig.spec.json
+src/test.ts
+src/polyfills.ts
+src/index.html
+src/environments/environment.prod.ts
+src/app/shared/shared.module.ts
+src/app/home/home.component.spec.ts
+.angular-cli.json
+e2e/app.e2e-spec.ts
+src/app/app.component.css
+src/app/app.component.spec.ts
+src/app/app.module.ts
+src/app/app.component.html
+src/app/app.component.ts
+src/app/home/home.component.css
+src/app/home/home.component.ts
+src/typings.d.ts
+src/styles.css
+src/favicon.ico
+src/app/home/home.component.html
+src/tsconfig.app.json
+src/assets/.gitkeep
+src/environments/environment.ts
+src/main.ts
